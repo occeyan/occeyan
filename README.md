@@ -16,7 +16,6 @@
   
   ##
 <div>
-  <img align="center" alt="sla" src="
-   https://i.pinimg.com/736x/ce/e7/d8/cee7d8f9d84c604939b3d8ac3b63037a.jpg">
+  <img align="center" alt="sla" src="https://i.pinimg.com/736x/ce/e7/d8/cee7d8f9d84c604939b3d8ac3b63037a.jpg">
  
 </div>
