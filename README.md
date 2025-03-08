@@ -16,6 +16,6 @@
   
   ##
 <div>
-  <img align="center" alt="sla" src="https://i.pinimg.com/736x/ce/e7/d8/cee7d8f9d84c604939b3d8ac3b63037a.jpg">
+  <img align="center" alt="sla" src="https://media.discordapp.net/attachments/973702937987670057/1110005260359045171/a4cf86832e8b44b9ec3a15193d341112.jpg?ex=67cd8d34&is=67cc3bb4&hm=6aa3ac76c9cb24ae7bf3082afdfe2c078b7d86b204732688a11ed73d5c01850f&=&format=webp&width=918&height=303">
  
 </div>
